@@ -38,7 +38,7 @@ I'm always open to connecting with professionals, recruiters, and organizations 
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECT 
 
 *A glimpse of some of the projects I've been working on.*
 
@@ -64,8 +64,6 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
 
 ## CONTACT DETAILS
 
@@ -90,7 +88,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="[https://www.linkedin.com/in/joseph-oyedemi/]">The things I do daily on LinkedIn</a></td>
+      <td><a href="[https://www.linkedin.com/in/joseph-oyedemi]">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
     </tr>
